@@ -8,7 +8,7 @@ On the main [GMSN! Website](https://gmsn.co.uk/) you will find all the designs, 
 
 The [GMSN! Forum](https://forum.gmsn.co.uk/) is where most of the chat happens.
 
-This Github Repo contains the code for the digital modules. All of which are based on the ATMEGA328 microprocessor. This enable us to leverage the Arduino IDE and libraries. This speeds up code development and deployment.
+This Github Repo contains the code for the digital modules. All of which are based on the ATMEGA328 microprocessor. This enable us to leverage the Arduino IDE and libraries, which speeds up code development and deployment.
 
 You can also view the Eagle Schematics and Board files on [CADLAB.io](https://cadlab.io/project/24118). This displays component locations and also tracks changes between versions.
 
