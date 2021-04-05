@@ -6,7 +6,7 @@ Your complete portal to building a DIY Open Source Synthesiser.
 
 On the main [GMSN! Website](https://gmsn.co.uk/) you will find all the designs, PCBs and Panels, together with step by step instructions and parts lists.
 
-The [GMSN! Forum](https://forum.gmsn.co.uk/) is where most of the chat happens.
+Supporters of GMSN! can access build docs and support via the [GMSN! Forum](https://forum.gmsn.co.uk/). Please buy PCBs and Panels direct from the website to create a forum acccount.
 
 This Github Repo contains the code for the digital modules. All of which are based on the ATMEGA328 microprocessor. This enable us to leverage the Arduino IDE and libraries, which speeds up code development and deployment.
 
